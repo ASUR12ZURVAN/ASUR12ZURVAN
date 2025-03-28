@@ -1,6 +1,7 @@
 ### Hi there, I'm **SUMIT KUMAR SAHU** 👋 aka **ASUR12ZURVAN**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ASUR12ZURVAN&color=blue)
+![Sample Image](https://images.alphacoders.com/849/849796.jpg)
 
 🚀 Passionate about **Game Development, AI, and Full-Stack Development**. I love working with **Unity, Blender, and Django** to build interactive and innovative applications. 
 
