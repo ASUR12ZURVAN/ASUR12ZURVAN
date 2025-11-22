@@ -1,4 +1,6 @@
 # Sumit Kumar Sahu
+![Intro](./1.png "Image 1")
+![work](./2.png "Image 2")
 
 **DOB:** 21 October 2004  
 **Location:** Bhubaneswar, Khorda, Odisha  
