@@ -1,4 +1,5 @@
 # Sumit Kumar Sahu
+
 ![Intro](./1.png "Image 1")
 ![work](./2.png "Image 2")
 
@@ -6,8 +7,11 @@
 **Location:** Bhubaneswar, Khorda, Odisha  
 
 📞 (+91) 7978043970  
-✉️ [ksumit21sahu@gmail.com](mailto:ksumit21sahu@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sumit-kumar-sahu-81446b295/) | [GitHub](https://github.com/ASUR12ZURVAN) | [LeetCode](https://leetcode.com/u/QrV2uXAg3B/)  
+✉️ [ksumit21sahu@gmail.com](mailto:ksumit21sahu@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kumar-sahu-81446b295/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASUR12ZURVAN)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/QrV2uXAg3B/)
 
 ---
 
